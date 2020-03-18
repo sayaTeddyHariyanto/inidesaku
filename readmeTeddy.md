@@ -1,7 +1,13 @@
 Deskripsi Sistem Informasi
 Sistem Informasi Desa sederhana ini sistem infromasti tentang pencatatan penduduk di suatu desa. Sistem Informasi ini juga dapat menambahkan admin, login dan logout. Untuk Registrasinya admin lainnya harus membuatkannya lewat menu manajemen akses.
 
+Yang Dibutuhkan:
+1. XAMPP
+2. Text Editor
+3. Template
+4. Browser
 
+Konfigurasi
 1. pertama nyalakan XAMPP agar dapat menjalankan localhost dan phpmyadmin
 2. Kemudian atur konfigurasi seperti
 di config/autoload.php
